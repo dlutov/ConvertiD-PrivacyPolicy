@@ -12,7 +12,7 @@ By using the App, you agree to the collection and use of information in accordan
 
 ```{toctree}
 :maxdepth: 1
-:caption: Contents:
+:hidden:
 
 pp/datacollection
 pp/usageandprocessing
