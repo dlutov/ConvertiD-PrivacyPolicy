@@ -7,8 +7,8 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'ConvertiD Privacy Policy'
-copyright = '2025, Datablooz'
-author = 'Datablooz'
+copyright = '2025, ConvertiD'
+author = 'ConvertiD'
 release = '0.1'
 
 # -- General configuration ---------------------------------------------------
